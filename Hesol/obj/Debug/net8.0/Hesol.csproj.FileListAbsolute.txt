@@ -263,3 +263,4 @@ C:\Users\dudab\source\repos\Hesol\Hesol\bin\Debug\net8.0\ru\Microsoft.CodeAnalys
 C:\Users\dudab\source\repos\Hesol\Hesol\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\dudab\source\repos\Hesol\Hesol\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\dudab\source\repos\Hesol\Hesol\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dudab\source\repos\Hesol\Hesol\obj\Debug\net8.0\Hesol.sourcelink.json

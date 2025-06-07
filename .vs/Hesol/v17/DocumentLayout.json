@@ -3,48 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\dudab\\source\\repos\\Hesol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\modelaux\\leituraaux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\modelaux\\leituraaux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\controllers\\leiturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\controllers\\leiturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\validation\\leituravalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\validation\\leituravalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\repository\\leiturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\repository\\leiturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\validation\\leituravalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\validation\\leituravalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\controllers\\localscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\controllers\\localscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\service\\leituraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\service\\leituraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\models\\leitura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\models\\leitura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\modelaux\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\modelaux\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\models\\leitura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\models\\leitura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\models\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\models\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\controllers\\leiturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\controllers\\leiturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\service\\leituraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\service\\leituraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\modelaux\\leituraaux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\modelaux\\leituraaux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|c:\\users\\dudab\\source\\repos\\hesol\\hesol\\modelaux\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9D14D7-D0A0-4D6F-84AF-14015AA3DBA6}|Hesol\\Hesol.csproj|solutionrelative:hesol\\modelaux\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +90,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Models\\Sensor.cs",
+              "RelativeDocumentMoniker": "Hesol\\Models\\Sensor.cs",
+              "ToolTip": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Models\\Sensor.cs",
+              "RelativeToolTip": "Hesol\\Models\\Sensor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T04:41:48.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Local.cs",
+              "DocumentMoniker": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Models\\Local.cs",
+              "RelativeDocumentMoniker": "Hesol\\Models\\Local.cs",
+              "ToolTip": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Models\\Local.cs",
+              "RelativeToolTip": "Hesol\\Models\\Local.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T04:40:44.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalsController.cs",
+              "DocumentMoniker": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Controllers\\LocalsController.cs",
+              "RelativeDocumentMoniker": "Hesol\\Controllers\\LocalsController.cs",
+              "ToolTip": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Controllers\\LocalsController.cs",
+              "RelativeToolTip": "Hesol\\Controllers\\LocalsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T04:39:40.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Hesol\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Hesol\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T04:02:01.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\appsettings.json",
               "RelativeDocumentMoniker": "Hesol\\appsettings.json",
@@ -82,23 +150,25 @@
               "RelativeToolTip": "Hesol\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-05T22:41:57.141Z"
+              "WhenOpened": "2025-06-05T22:41:57.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Hesol\\Models\\Usuario.cs",
               "ToolTip": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Models\\Usuario.cs",
               "RelativeToolTip": "Hesol\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T14:14:33.569Z"
+              "WhenOpened": "2025-06-05T14:14:33.569Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\ModelAux\\Login.cs",
               "RelativeDocumentMoniker": "Hesol\\ModelAux\\Login.cs",
@@ -106,11 +176,12 @@
               "RelativeToolTip": "Hesol\\ModelAux\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T00:38:48.595Z"
+              "WhenOpened": "2025-06-04T00:38:48.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "Hesol\\Controllers\\UsuariosController.cs",
@@ -118,92 +189,99 @@
               "RelativeToolTip": "Hesol\\Controllers\\UsuariosController.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAkwFcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T20:36:39.598Z"
+              "WhenOpened": "2025-06-03T20:36:39.598Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "LeituraService.cs",
               "DocumentMoniker": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Service\\LeituraService.cs",
               "RelativeDocumentMoniker": "Hesol\\Service\\LeituraService.cs",
               "ToolTip": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Service\\LeituraService.cs",
               "RelativeToolTip": "Hesol\\Service\\LeituraService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCMAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T17:47:21.028Z"
+              "WhenOpened": "2025-06-03T17:47:21.028Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "LeituraValidation.cs",
               "DocumentMoniker": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Validation\\LeituraValidation.cs",
               "RelativeDocumentMoniker": "Hesol\\Validation\\LeituraValidation.cs",
               "ToolTip": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Validation\\LeituraValidation.cs",
               "RelativeToolTip": "Hesol\\Validation\\LeituraValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T17:06:21.759Z"
+              "WhenOpened": "2025-05-31T17:06:21.759Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LeituraRepository.cs",
               "DocumentMoniker": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Repository\\LeituraRepository.cs",
               "RelativeDocumentMoniker": "Hesol\\Repository\\LeituraRepository.cs",
               "ToolTip": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Repository\\LeituraRepository.cs",
               "RelativeToolTip": "Hesol\\Repository\\LeituraRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA1wB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T16:50:48.426Z"
+              "WhenOpened": "2025-05-31T16:50:48.426Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Leitura.cs",
               "DocumentMoniker": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Models\\Leitura.cs",
               "RelativeDocumentMoniker": "Hesol\\Models\\Leitura.cs",
               "ToolTip": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Models\\Leitura.cs",
               "RelativeToolTip": "Hesol\\Models\\Leitura.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T20:39:32.081Z"
+              "WhenOpened": "2025-05-27T20:39:32.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "LeiturasController.cs",
               "DocumentMoniker": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Controllers\\LeiturasController.cs",
               "RelativeDocumentMoniker": "Hesol\\Controllers\\LeiturasController.cs",
               "ToolTip": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Controllers\\LeiturasController.cs",
               "RelativeToolTip": "Hesol\\Controllers\\LeiturasController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAQwA0AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:56:51.438Z"
+              "WhenOpened": "2025-05-28T13:56:51.438Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "LeituraAux.cs",
               "DocumentMoniker": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\ModelAux\\LeituraAux.cs",
               "RelativeDocumentMoniker": "Hesol\\ModelAux\\LeituraAux.cs",
               "ToolTip": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\ModelAux\\LeituraAux.cs",
               "RelativeToolTip": "Hesol\\ModelAux\\LeituraAux.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T12:31:51.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Program.cs",
               "RelativeDocumentMoniker": "Hesol\\Program.cs",
               "ToolTip": "C:\\Users\\dudab\\source\\repos\\Hesol\\Hesol\\Program.cs",
               "RelativeToolTip": "Hesol\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAACVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:00:16.148Z"
+              "WhenOpened": "2025-05-28T13:00:16.148Z",
+              "EditorCaption": ""
             }
           ]
         }

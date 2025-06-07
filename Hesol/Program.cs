@@ -19,7 +19,7 @@ builder.Services.AddSwaggerGen(options =>
     {
         Version = "v1",
         Title = "API REST Hesol",
-        Description = "Uma aplicação destinada ao controle de pessoas e professores através de rotas de api e integração com o banco de dados",
+        Description = "Uma aplicação destinada à prevenção do aquecimento global através de cálculos da qualidade ambiental para soluções preventivas",
         TermsOfService = new Uri("https://example.com/terms"),
         Contact = new OpenApiContact
         {

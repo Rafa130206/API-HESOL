@@ -16,7 +16,7 @@ namespace Hesol.Validation
                 {
                     pontos += 25;
                 }
-                if (leituraAux.Temperatura > 10 && leituraAux.Temperatura < 17 || leituraAux.Temperatura > 26 && leituraAux.Temperatura < 32)
+                else if (leituraAux.Temperatura > 10 && leituraAux.Temperatura < 17 || leituraAux.Temperatura > 26 && leituraAux.Temperatura < 32)
                 {
                     pontos += 15;
                 }
@@ -30,7 +30,7 @@ namespace Hesol.Validation
                 {
                     pontos += 25;
                 }
-                if (leituraAux.Co2 > 800 && leituraAux.Co2 < 1000)
+                else if (leituraAux.Co2 > 800 && leituraAux.Co2 < 1000)
                 {
                     pontos += 15;
                 }
@@ -44,7 +44,7 @@ namespace Hesol.Validation
                 {
                     pontos += 25;
                 }
-                if (leituraAux.Umidade > 30 && leituraAux.Temperatura < 39 || leituraAux.Temperatura > 71 && leituraAux.Temperatura < 80)
+                else if (leituraAux.Umidade > 30 && leituraAux.Temperatura < 39 || leituraAux.Temperatura > 71 && leituraAux.Temperatura < 80)
                 {
                     pontos += 15;
                 }
@@ -58,7 +58,7 @@ namespace Hesol.Validation
                 {
                     pontos += 25;
                 }
-                if (leituraAux.Poluicao > 50 && leituraAux.Temperatura < 100 || leituraAux.Temperatura > 71 && leituraAux.Temperatura < 80)
+                else if (leituraAux.Poluicao > 50 && leituraAux.Temperatura < 100 || leituraAux.Temperatura > 71 && leituraAux.Temperatura < 80)
                 {
                     pontos += 15;
                 }
@@ -71,23 +71,23 @@ namespace Hesol.Validation
 
             string resultado = "";
 
-            if (pontos > 85 && pontos < 100)
+            if (pontos > 85 && pontos <= 100)
             {
                 resultado = "Excelente";
             }
-            if (pontos > 60 && pontos < 85)
+            if (pontos > 60 && pontos <= 85)
             {
                 resultado = "Boa";
             }
-            if (pontos > 40 && pontos < 60)
+            if (pontos > 40 && pontos <= 60)
             {
                 resultado = "Moderada";
             }
-            if (pontos > 20 && pontos < 40)
+            if (pontos > 20 && pontos <= 40)
             {
                 resultado = "Ruim";
             }
-            if (pontos < 20)
+            if (pontos <= 20)
             {
                 resultado = "Péssimo";
             }
