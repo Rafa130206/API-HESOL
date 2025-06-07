@@ -24,10 +24,15 @@ Rafael Bompadre Lima - RM556459
 - Oracle SQL
 
 ---
+## 🧱 Arquitetura
+
+```plaintext
+[ LeituraController ] --> [ LeituraService ] --> [ LeituraRepository ] --> [ Tabela Leitura ]
+```
 
 ## 📦 Como Executar o Projeto
 
-### ✅ Pré-requisitos
+### ✅ Desenvolvimento
 
 - [.NET SDK 6.0+]
 - [Visual Studio 2022+]
