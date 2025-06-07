@@ -26,9 +26,9 @@ Rafael Bompadre Lima - RM556459
 ---
 ## 🧱 Arquitetura
 
-```plaintext
-[ LeituraController ] --> [ LeituraService ] --> [ LeituraRepository ] --> [ Tabela Leitura ]
-```
+[```plaintext
+Link: (https://lucid.app/lucidchart/9b430943-c341-45cc-9d52-eb586de6c101/edit?viewport_loc=545%2C831%2C2017%2C1039%2CHWEp-vi-RSFO&invitationId=inv_48739e55-54db-4ff9-b409-0d5d0c99ae08)
+```]
 
 ## 📦 Como Executar o Projeto
 
