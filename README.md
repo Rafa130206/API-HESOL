@@ -26,8 +26,9 @@ Rafael Bompadre Lima - RM556459
 ---
 ## 🧱 Arquitetura
 
+Link:
 ```
-Link: (https://lucid.app/lucidchart/9b430943-c341-45cc-9d52-eb586de6c101/edit?viewport_loc=545%2C831%2C2017%2C1039%2CHWEp-vi-RSFO&invitationId=inv_48739e55-54db-4ff9-b409-0d5d0c99ae08)
+https://lucid.app/lucidchart/9b430943-c341-45cc-9d52-eb586de6c101/edit?viewport_loc=545%2C831%2C2017%2C1039%2CHWEp-vi-RSFO&invitationId=inv_48739e55-54db-4ff9-b409-0d5d0c99ae08
 ```
 
 ## 📦 Como Executar o Projeto
@@ -62,5 +63,5 @@ dotnet build
 # Execute o projeto
 dotnet run
 
-# O Projeto irá rdar na porta: http://localhost:5291
+# O Projeto irá rodar na porta: http://localhost:5291
 
