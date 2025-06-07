@@ -43,7 +43,7 @@ Rafael Bompadre Lima - RM556459
 
 ```bash
 # Clone o repositório
-git clone https://github.com/dudabrigidio/Autottu-API.git
+git clone https://github.com/dudabrigidio/API-HESOL.git
 
 # Acesse a pasta do projeto
 cd hesol
