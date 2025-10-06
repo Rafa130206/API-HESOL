@@ -14,6 +14,5 @@ namespace Hesol.Connection
         public DbSet<Local> Local { get; set; }
         public DbSet<Sensor> Sensor { get; set; }
         public DbSet<Usuario> Usuario { get; set; }
-        public DbSet<Leitura> Leitura { get; set; }
     }
 }
