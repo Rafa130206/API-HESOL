@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Hesol.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251006221604_InitialCreate_SqlServer")]
+    [Migration("20251006224611_InitialCreate_SqlServer")]
     partial class InitialCreate_SqlServer
     {
         /// <inheritdoc />
