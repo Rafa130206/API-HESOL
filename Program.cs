@@ -15,7 +15,7 @@ builder.Services.AddSwaggerGen(options =>
     {
         Version = "v1",
         Title = "API REST Hesol",
-        Description = "Uma aplicaÁ„o destinada ‡ prevenÁ„o do aquecimento global atravÈs de c·lculos da qualidade ambiental para soluÁıes preventivas",
+        Description = "Uma aplica√ß√£o destinada √† preven√ß√£o do aquecimento global atrav√©s de c√°lculos da qualidade ambiental para solu√ß√µes preventivas",
         TermsOfService = new Uri("https://example.com/terms"),
         Contact = new OpenApiContact
         {
@@ -34,7 +34,7 @@ string Req(string name)
 {
     var v = Environment.GetEnvironmentVariable(name);
     if (string.IsNullOrWhiteSpace(v))
-        throw new InvalidOperationException($"Vari·vel de ambiente '{name}' n„o definida.");
+        throw new InvalidOperationException($"Vari√°vel de ambiente '{name}' n√£o definida.");
     return v;
 }
 
@@ -61,6 +61,9 @@ Console.WriteLine($"[DB] Server={dbHost},{dbPort}; Database={dbName}; User={dbUs
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(connectionString));
+
+builder.Services.AddScoped<Hesol.Repository.LeituraRepository>();
+builder.Services.AddScoped<Hesol.Service.LeituraService>();
 
 builder.Services.AddCors(options =>
 {
