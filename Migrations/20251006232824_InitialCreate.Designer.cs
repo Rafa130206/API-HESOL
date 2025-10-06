@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Hesol.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251006224611_InitialCreate_SqlServer")]
-    partial class InitialCreate_SqlServer
+    [Migration("20251006232824_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -23,41 +23,6 @@ namespace Hesol.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
-
-            modelBuilder.Entity("Hesol.Models.Leitura", b =>
-                {
-                    b.Property<int>("IdLeitura")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdLeitura"));
-
-                    b.Property<double>("Co2")
-                        .HasColumnType("float");
-
-                    b.Property<int>("IdSensor")
-                        .HasColumnType("int");
-
-                    b.Property<int>("IdUsuario")
-                        .HasColumnType("int");
-
-                    b.Property<double>("Poluicao")
-                        .HasColumnType("float");
-
-                    b.Property<string>("Resultado")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<double>("Temperatura")
-                        .HasColumnType("float");
-
-                    b.Property<double>("Umidade")
-                        .HasColumnType("float");
-
-                    b.HasKey("IdLeitura");
-
-                    b.ToTable("Leitura");
-                });
 
             modelBuilder.Entity("Hesol.Models.Local", b =>
                 {

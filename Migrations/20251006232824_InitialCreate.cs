@@ -5,30 +5,11 @@
 namespace Hesol.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialCreate_SqlServer : Migration
+    public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.CreateTable(
-                name: "Leitura",
-                columns: table => new
-                {
-                    IdLeitura = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    IdUsuario = table.Column<int>(type: "int", nullable: false),
-                    IdSensor = table.Column<int>(type: "int", nullable: false),
-                    Temperatura = table.Column<double>(type: "float", nullable: false),
-                    Co2 = table.Column<double>(type: "float", nullable: false),
-                    Umidade = table.Column<double>(type: "float", nullable: false),
-                    Poluicao = table.Column<double>(type: "float", nullable: false),
-                    Resultado = table.Column<string>(type: "nvarchar(max)", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Leitura", x => x.IdLeitura);
-                });
-
             migrationBuilder.CreateTable(
                 name: "Local",
                 columns: table => new
@@ -79,9 +60,6 @@ namespace Hesol.Migrations
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.DropTable(
-                name: "Leitura");
-
             migrationBuilder.DropTable(
                 name: "Local");
 

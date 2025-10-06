@@ -25,7 +25,6 @@
             [MaxLength(100)]
             public string Pais { get; set; }
 
-
         }
 
 }
