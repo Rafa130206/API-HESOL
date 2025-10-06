@@ -62,9 +62,6 @@ Console.WriteLine($"[DB] Server={dbHost},{dbPort}; Database={dbName}; User={dbUs
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(connectionString));
 
-builder.Services.AddScoped<Hesol.Repository.LeituraRepository>();
-builder.Services.AddScoped<Hesol.Service.LeituraService>();
-
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("PermitirTudo", policy =>
