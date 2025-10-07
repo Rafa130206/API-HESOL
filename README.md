@@ -47,11 +47,11 @@ export GITHUB_REPO_NAME="<seu_usuario_github>/API-HESOL"
 ### 6. Rodar o Script:
 No Cloud Shell, conceda o privilégio de execução no Script:
 ```bash
-chmod +x deploy-hesolapi.sh
+chmod +x deploy-hesol.sh
 ```
 Agora execute o Script com o seguinte comando:
 ```bash
- ./deploy-hesolapi.sh 
+ ./deploy-hesol.sh 
 ```
 ⚠️ Ao executar a criação do banco de dados, o Cloud Shell vai pedir para confirmar o procedimento. Digite `y` e pressione `Enter`
 
