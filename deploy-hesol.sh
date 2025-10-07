@@ -8,6 +8,7 @@
 
 # Registrar os serviços necessários
 az provider register --namespace Microsoft.Web
+az provider register --namespace Microsoft.Sql
 az provider register --namespace Microsoft.Insights
 az provider register --namespace Microsoft.OperationalInsights
 az extension add --name application-insights
